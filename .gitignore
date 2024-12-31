@@ -36,7 +36,7 @@ dist-ssr
 # src/components/Modal-Popup
 # src/components/Random-Color-Generator
 # src/components/Scroll-Indicator
-src/components/Scroll-To-Section
+# src/components/Scroll-To-Section
 src/components/Scroll-To-Top-And-Bottom
 src/components/Search-Autocomplete-With-Api
 src/components/StarRating
