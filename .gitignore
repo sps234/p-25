@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+
+# components
+
+src/components/Accordian
+src/components/Custom-Tabs
+src/components/Feature-Flag
+src/components/Github-Profile-Finder
+src/components/Home
+src/components/ImageSlider
+src/components/LoadMore
+src/components/Modal-Popup
+src/components/Random-Color-Generator
+src/components/Scroll-Indicator
+src/components/Scroll-To-Section
+src/components/Scroll-To-Top-And-Bottom
+src/components/Search-Autocomplete-With-Api
+src/components/StarRating
+src/components/TreeView
+src/components/Use-Fetch
+src/components/Use-Responsive
+src/components/UseOnClickOutside
