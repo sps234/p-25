@@ -28,7 +28,7 @@ dist-ssr
 
 # src/components/Accordian
 # src/components/Custom-Tabs
-src/components/Feature-Flag
+# src/components/Feature-Flag
 src/components/Github-Profile-Finder
 src/components/Home
 src/components/ImageSlider
