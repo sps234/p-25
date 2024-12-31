@@ -39,7 +39,7 @@ dist-ssr
 # src/components/Scroll-To-Section
 # src/components/Scroll-To-Top-And-Bottom
 # src/components/Search-Autocomplete-With-Api
-src/components/StarRating
+# src/components/StarRating
 src/components/TreeView
 src/components/Use-Fetch
 src/components/Use-Responsive
