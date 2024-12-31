@@ -42,5 +42,5 @@ dist-ssr
 # src/components/StarRating
 # src/components/TreeView
 # src/components/Use-Fetch
-src/components/Use-Responsive
+# src/components/Use-Responsive
 src/components/UseOnClickOutside
