@@ -32,7 +32,7 @@ dist-ssr
 # src/components/Github-Profile-Finder
 # src/components/Home
 # src/components/ImageSlider
-src/components/LoadMore
+# src/components/LoadMore
 src/components/Modal-Popup
 src/components/Random-Color-Generator
 src/components/Scroll-Indicator
