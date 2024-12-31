@@ -1,0 +1,13 @@
+.movie {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#progressBar {
+    width: 100%;
+    display: flex;
+    color: aqua;
+    position:fixed;
+}
