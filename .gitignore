@@ -30,7 +30,7 @@ dist-ssr
 # src/components/Custom-Tabs
 # src/components/Feature-Flag
 # src/components/Github-Profile-Finder
-src/components/Home
+# src/components/Home
 src/components/ImageSlider
 src/components/LoadMore
 src/components/Modal-Popup
