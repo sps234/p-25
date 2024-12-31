@@ -31,7 +31,7 @@ dist-ssr
 # src/components/Feature-Flag
 # src/components/Github-Profile-Finder
 # src/components/Home
-src/components/ImageSlider
+# src/components/ImageSlider
 src/components/LoadMore
 src/components/Modal-Popup
 src/components/Random-Color-Generator
