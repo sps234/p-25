@@ -41,6 +41,6 @@ dist-ssr
 # src/components/Search-Autocomplete-With-Api
 # src/components/StarRating
 # src/components/TreeView
-src/components/Use-Fetch
+# src/components/Use-Fetch
 src/components/Use-Responsive
 src/components/UseOnClickOutside
