@@ -33,7 +33,7 @@ dist-ssr
 # src/components/Home
 # src/components/ImageSlider
 # src/components/LoadMore
-src/components/Modal-Popup
+# src/components/Modal-Popup
 src/components/Random-Color-Generator
 src/components/Scroll-Indicator
 src/components/Scroll-To-Section
